@@ -1,0 +1,34 @@
+#news {
+float:left;
+width:38%;
+height:290px;
+background-color:#0F0D02;
+}
+
+.body {
+background-color:white;
+width:100%;
+height:500px;
+}
+
+.dashboard {
+background-color:#FFF5FD;
+width:70%;
+float:right;
+height:500px;
+}
+
+.list {
+float:left;
+background-color:#E8DFE6;
+width:17.5%;
+height:60%;
+margin-right:50px;
+
+
+
+
+}
+
+
+
